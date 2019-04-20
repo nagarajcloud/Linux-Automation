@@ -1,6 +1,3 @@
-# Linux-Automation
-Linux Automation Scripts
-
 # Linux Metrics Collection Scripts
 
 linux_metrics.sh - This script shows usage details of disk, cpu and network statistics
