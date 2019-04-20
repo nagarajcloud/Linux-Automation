@@ -3,19 +3,17 @@ Linux Automation Scripts
 
 Linux Metrics Collection Scripts
 --------------------------------
-linux_metrics.sh
+linux_metrics.sh - This script shows usage details of disk, cpu and network statistics
 
-	This script shows usage details of disk, cpu and network statistics
- 
-OS : Ubuntu 18.04.2 LTS
+Operating Systems : Ubuntu 18.04.2 LTS
 
-Prerequisites
+# Prerequisites:
   
     Install systat package using below command
     
       apt install sysstat
     
-How to run?
+# How to run?
 
 		1. Download the file to your machine
 		
